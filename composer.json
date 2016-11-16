@@ -17,11 +17,11 @@
         }
     ],
     "require": {
-        "symfony/http-foundation": "~2.8|~3.0",
-        "symfony/form": "~2.8|~3.0",
-        "symfony/security": "~2.8|~3.0",
-        "symfony/security-acl": "~2.8|~3.0",
-        "symfony/console": "~2.8|~3.0",
+        "symfony/http-foundation": "3.*",
+        "symfony/form": "3.*",
+        "symfony/security": "3.*",
+        "symfony/security-acl": "3.*",
+        "symfony/console": "3.*",
         "sonata-project/core-bundle": "~2.3,>=2.3.10",
         "sonata-project/admin-bundle": "~2.3|~2.4@dev",
         "friendsofsymfony/user-bundle": "~2.0@dev",
